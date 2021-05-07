@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a353366.chunk.css",
+    "main.js": "/static/js/main.4267c0a1.chunk.js",
+    "main.js.map": "/static/js/main.4267c0a1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.91bdd078.js",
+    "runtime-main.js.map": "/static/js/runtime-main.91bdd078.js.map",
+    "static/js/2.00c8b3a0.chunk.js": "/static/js/2.00c8b3a0.chunk.js",
+    "static/js/2.00c8b3a0.chunk.js.map": "/static/js/2.00c8b3a0.chunk.js.map",
+    "static/js/3.16bf97c4.chunk.js": "/static/js/3.16bf97c4.chunk.js",
+    "static/js/3.16bf97c4.chunk.js.map": "/static/js/3.16bf97c4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7a353366.chunk.css.map": "/static/css/main.7a353366.chunk.css.map",
+    "static/js/2.00c8b3a0.chunk.js.LICENSE.txt": "/static/js/2.00c8b3a0.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Pixel-LCD-7.63d9c151.woff",
+    "static/media/bgimg.f3ed2ffe.png": "/static/media/bgimg.f3ed2ffe.png",
+    "static/media/brassorchidbobbyrichards.205c12f1.mp3": "/static/media/brassorchidbobbyrichards.205c12f1.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91bdd078.js",
+    "static/js/2.00c8b3a0.chunk.js",
+    "static/css/main.7a353366.chunk.css",
+    "static/js/main.4267c0a1.chunk.js"
+  ]
+}
